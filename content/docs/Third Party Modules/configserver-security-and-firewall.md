@@ -8,7 +8,7 @@ weight: 4500
 ### About
 A stateful packet inspection (SPI) firewall, login/intrusion detection and security application for Linux servers.
 
-{{< alert primary notification "Note" "[ConfigServer Security & Firewall](https://configserver.com/configserver-security-and-firewall/) is a third-party product that provides a Webmin module, which is not included in the default Webmin installation. You can install it on your system by following the instructions below." >}}
+{{< alert primary notification "Note" "[ConfigServer Security & Firewall](https://configserverfirewall.org/) is a third-party product that provides a Webmin module, which is not included in the default Webmin installation. You can install it on your system by following the instructions below." >}}
 
 ### Supported OS
 * Red Hat Enterprise Linux 7, 8 and 9
